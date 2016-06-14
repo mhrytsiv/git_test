@@ -1,12 +1,13 @@
 public Class {
-
-	public static final String chr;
+	public static final Object object;
 	
-	public static final Integer _int;
-	
-	public static final Integer _short;	
+	public static final Integer _int;	
 	
 	public static void main () {
-		String s = "ffff";
+		String s = "ssssss";
+	}
+	
+	public static void method () {
+		String method = "method";
 	}
 }
