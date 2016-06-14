@@ -1,4 +1,12 @@
 public Class {
+
 	public static final String chr;
+	
+	public static final Integer _int;
+	
 	public static final Integer _short;	
+	
+	public static void main () {
+		String s = "ffff";
+	}
 }
