@@ -1,0 +1,4 @@
+public Class {
+	public static final Char chr;
+	public static final Short _short;	
+}
